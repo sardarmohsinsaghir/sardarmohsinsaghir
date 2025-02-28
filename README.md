@@ -94,6 +94,6 @@ I am always open to exciting AI and software development projects, research oppo
 <h3>🐍 Snake Animation</h3>
 
 <p align="center">
-  <img src="https://github.com/sardarmohsinsaghir/sardarmohsinsaghir/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sardarmohsinsaghir/sardarmohsinsaghir/output/snake.svg" alt="Snake animation" />
 </p>
 
