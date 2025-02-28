@@ -79,19 +79,13 @@
 
 ---
 
-<h3>📈 Profile Views</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sardarmohsinsaghir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
----
-
 <h3>💡 Let's Collaborate!</h3>
 
 I am always open to exciting AI and software development projects, research opportunities, and collaborations. Let’s innovate together! 🚀
 
 ---
 
-<h3>🐍 Snake Animation</h3>
+<h3>🏆 Contributions</h3>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Animated Snake" />
