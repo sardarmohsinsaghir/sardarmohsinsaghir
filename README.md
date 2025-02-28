@@ -88,3 +88,12 @@
 <h3>💡 Let's Collaborate!</h3>
 
 I am always open to exciting AI and software development projects, research opportunities, and collaborations. Let’s innovate together! 🚀
+
+---
+
+<h3>🐍 Snake Animation</h3>
+
+<p align="center">
+  <img src="https://github.com/sardarmohsinsaghir/sardarmohsinsaghir/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
